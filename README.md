@@ -96,7 +96,7 @@ If you use this dataset in academic work, please cite our paper.
 To cite this dataset:
 
 ```bibtex
-@dataset{your_id_here,
+@dataset{SIMPaCTdata2025,
   author       = {Mesut Koçyiğit and Bahman Javadi and Russell Thomson and Sebastian Pfautsch and Oliver Obst},
   title        = {SIMPaCT Soil Moisture Sensor Dataset},
   year         = {2025},
