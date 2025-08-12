@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite it using the metadata below."
+title: "SIMPaCT Soil Moisture Sensor Dataset"
+version: "1.0"
+type: dataset
+doi: 10.5281/zenodo.16811020
+url: "https://doi.org/10.5281/zenodo.16811020"
+repository-code: "https://github.com/OliverObst/simpact-demo-data"
+authors:
+  - family-names: Koçyiğit
+    given-names: Mesut
+  - family-names: Javadi
+    given-names: Bahman
+  - family-names: Thomson
+    given-names: Russell
+  - family-names: Pfautsch
+    given-names: Sebastian
+  - family-names: Obst
+    given-names: Oliver
+preferred-citation:
+  type: dataset
+  title: "SIMPaCT Soil Moisture Sensor Dataset"
+  authors:
+    - family-names: Koçyiğit
+      given-names: Mesut
+    - family-names: Javadi
+      given-names: Bahman
+    - family-names: Thomson
+      given-names: Russell
+    - family-names: Pfautsch
+      given-names: Sebastian
+    - family-names: Obst
+      given-names: Oliver
+  year: 2025
+  version: "1.0"
+  doi: 10.5281/zenodo.16811020
+  url: "https://doi.org/10.5281/zenodo.16811020"
