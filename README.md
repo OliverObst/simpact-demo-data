@@ -135,8 +135,8 @@ To cite this dataset:
   title        = {SIMPaCT Soil Moisture Sensor Dataset},
   year         = {2025},
   version      = {1.0},
-  doi          = {},
-  url          = {https://github.com/OliverObst/simpact-demo-data}
+  doi          = {10.5281/zenodo.16811020},
+  url          = {https://doi.org/10.5281/zenodo.16811020}
 }
 ```
 
