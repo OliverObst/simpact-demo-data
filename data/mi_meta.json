@@ -1,0 +1,19 @@
+{
+  "generated": "2025-08-12T17:49:10",
+  "recompute": false,
+  "alpha": 0.05,
+  "min_mi_norm": 0.0,
+  "require_significant": true,
+  "nodes": 13,
+  "edges": 13,
+  "files": {
+    "full": "../data/mi_full.csv",
+    "norm": "../data/mi_norm.csv",
+    "pvals": "../data/mi_pvals.csv",
+    "edges": "../data/mi_top1_edges.csv",
+    "graph": "../data/mi_top1_graph.gpickle",
+    "pos": "../data/mi_pos.csv",
+    "pdf": "../figures/mi_neighbourhood.pdf",
+    "png": "../figures/mi_neighbourhood.png"
+  }
+}
