@@ -95,6 +95,18 @@ df[[sensor_a, sensor_b]].plot(title="Soil Moisture Sensors")
 ```
 ---
 
+## Example Visualisations
+
+**Virtual sensor prediction handover:**  
+Blue (dashed) – actual sensor; Green (solid) – virtual sensor prediction after handover point.  
+
+![Virtual Sensor Prediction](figures/backup_virtual_sensor.png)
+
+**Mutual information graph:**  
+Top mutual information edges between sensors, used for virtual sensor selection.  
+
+![MI Graph](figures/mi_neighbourhood.png)
+
 ## License
 
 * **Code** in this repository: MIT License (see `LICENSE`)
@@ -102,6 +114,14 @@ df[[sensor_a, sensor_b]].plot(title="Soil Moisture Sensors")
 
 If you use this dataset in academic work, please cite our paper.
 
+
+## Additional Requirements
+
+The mutual information analysis uses the amazing [Java Information Dynamics Toolkit (JIDT)](https://github.com/jlizier/jidt) via `jpype1`.
+
+Download the JIDT jar file (that is the `infodynamics.jar` file) from the [JIDT releases page](https://github.com/jlizier/jidt/releases) and place it in the `code/` directory or update the script path accordingly.
+
+With the intermediate `mi_*` files present, the toolkit is not strictly required to reproduce the graphs, but for any new data you will need it.
 
 ---
 
