@@ -130,13 +130,19 @@ With the intermediate `mi_*` files present, the toolkit is not strictly required
 To cite this dataset:
 
 ```bibtex
-@dataset{SIMPaCTdata2025,
-  author       = {Mesut Koçyiğit and Bahman Javadi and Russell Thomson and Sebastian Pfautsch and Oliver Obst},
+@dataset{KJT+25,
+  author       = {Koçyiğit, Mesut and
+                  Javadi, Bahman and
+                  Thomson, Russell and
+                  Pfautsch, Sebastian and
+                  Obst, Oliver},
   title        = {SIMPaCT Soil Moisture Sensor Dataset},
-  year         = {2025},
-  version      = {1.0},
+  month        = aug,
+  year         = 2025,
+  publisher    = {Zenodo},
+  version      = {v1.0},
   doi          = {10.5281/zenodo.16811020},
-  url          = {https://doi.org/10.5281/zenodo.16811020}
+  url          = {https://doi.org/10.5281/zenodo.16811020},
 }
 ```
 
